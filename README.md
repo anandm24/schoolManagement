@@ -12,16 +12,16 @@ backend\.env
 ***
 Go to the root folder and install the backend dependencies by using the command-
 
-npm install
+    npm install
 
-node server.js
+    node server.js
 ***
 
 Go to the frontend folder by command cd frontend and then install frontend dependecies using the command-
 
-npm install
+    npm install
 
-set NODE_OPTIONS=--openssl-legacy-provider
+    set NODE_OPTIONS=--openssl-legacy-provider
 
-npm start
+    npm start
 ***
