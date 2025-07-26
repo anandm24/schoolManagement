@@ -47,10 +47,6 @@ const teacherSchema = mongoose.Schema(
       type: Number,
       required: true,
     },
-    image: {
-      type: String,
-      required: true,
-    },
     subjectToTeach: {
       type: String,
       required: true,

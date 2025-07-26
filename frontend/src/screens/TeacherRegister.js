@@ -214,6 +214,7 @@ const TeacherRegister = ({ history }) => {
                   required
                 />
               </div>
+              {/*
               <div className='form-control'>
                 <label htmlFor='name'>
                   Upload Picture
@@ -231,7 +232,7 @@ const TeacherRegister = ({ history }) => {
                     message='Picture uploaded successfully'
                   />
                 )}
-              </div>
+              </div> */}
               {/* <div className="register-btn"> */}
               {/* </div> */}
             </div>
