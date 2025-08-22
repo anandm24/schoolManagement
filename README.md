@@ -1,9 +1,8 @@
 ***
 Start MongoDB server locally
 
-    On Windows:
-
-        Open Command Prompt as Administrator and run:
+On Windows:
+Open Command Prompt as Administrator and run:
 
             net start MongoDB
 
