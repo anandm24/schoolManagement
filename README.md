@@ -1,3 +1,4 @@
+***
 Start MongoDB server locally
 
     On Windows:
@@ -5,6 +6,8 @@ Start MongoDB server locally
         Open Command Prompt as Administrator and run:
 
             net start MongoDB
+
+***
 
 ****create a .env file on backend folder
 
